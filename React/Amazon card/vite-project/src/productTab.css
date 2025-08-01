@@ -1,0 +1,13 @@
+.product-tab {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;   /* or space-between/space-evenly */
+  gap: 16px;                /* modern spacing */
+  padding: 10px;
+}
+
+
+.main-box{
+    border :3px solid #252323;
+    border-radius: 9px;
+}

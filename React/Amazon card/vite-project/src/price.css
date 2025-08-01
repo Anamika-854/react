@@ -1,0 +1,8 @@
+.pricecard{
+    background-color: rgb(207, 181, 149);
+    width: 100%px;
+}
+
+.price{
+    text-decoration: line-through;
+}

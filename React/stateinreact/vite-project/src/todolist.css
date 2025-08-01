@@ -1,0 +1,10 @@
+.list{
+    background-color: #AAFDF9;
+    color: black;
+}
+.list button{
+    width: 100%;
+}
+.list input{
+    height: 30px;
+}
